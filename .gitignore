@@ -1,0 +1,13 @@
+*
+!.*
+.zcomp*
+.lesshst
+.oh-my-zsh/
+.CFUserTextEncoding
+.DS_Store
+.vim/
+.gitconfig
+.zsh_history
+.zprofile
+.viminfo
+.wget-hsts
